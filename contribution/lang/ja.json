@@ -701,7 +701,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使用すると、あらゆる（*条件付き）傷害が治療される！",
+ 	 	 	 	"trans": "使用すると、あらゆる傷害が治療される！（*条件付き）",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -721,7 +721,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "軍で使用されている注射用ナノマシン。戦闘中のケガの治療が可能。",
+ 	 	 	 	"trans": "軍隊で使用されている注射用ナノマシン。戦闘中のケガの治療が可能。",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -751,7 +751,7 @@
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "あなたと友人は一緒に頭痛を抱えていますか？ 痛みに聞くのはバファソニンスプレー™！",
+ 	 	 	 	"trans": "あなたと友人は一緒に頭痛を抱えていますか？ 痛みに効くのはバファソニンスプレー™！",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -831,7 +831,7 @@
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使われている医療技術のかけら。知識があれば、これを使ってヒーリングアイテムを作ることができる。",
+ 	 	 	 	"trans": "使われた医療技術の欠片。知識があれば、これを使って回復アイテムを作ることができる。",
  	 	 	 	"eng": "Bits and pieces of used medical tech. This can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -851,7 +851,7 @@
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bitcoinマイニング用の専用ハードウェアとして使用可能。 \r\n         ただし、オーバークロックのため、プロセッサが簡単に焼け付く。 \r\n         [ジョブハブ]でBitcoinのマイニングに使用可能。",
+ 	 	 	 	"trans": "Bitcoinマイニング用の専用ハードウェアとして使用可能。 \r\n         ただし、オーバークロックしているため、プロセッサが簡単に焼け付く。 \r\n         [ジョブハブ]でBitcoinのマイニングに使用可能。",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
@@ -861,7 +861,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "サイバネティック接続された全てのユーザーにエクスプロイトを配信し、シナプスプロセッサをオーバークロックさせることで、短時間で超人的な精神力を得ることができる。 \r\n        \r\n         使用すると、オンライン中の全てのプレイヤーにグローバルバフを与え、10分間AFKタスクを+5%のスピードでこなすことができる。（スタック可能）",
+ 	 	 	 	"trans": "サイバネティック接続された全てのユーザーにエクスプロイトを広げ、シナプスプロセッサをオーバークロックさせることで、短い間超人的な精神力を得ることができる。 \r\n        \r\n         使用すると、オンライン中の全てのプレイヤーにグローバルバフを与え、10分間AFKタスクを+5%のスピードでこなすことができる。（スタック可能）",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -871,7 +871,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "サイバネティック接続された全てのユーザーにエクスプロイトを配信し、シナプスプロセッサをオーバークロックさせることで、短時間で超人的な精神力を得ることができる。。 \r\n        \r\n         使用すると、オンライン中の全てのプレイヤーにグローバルバフを与え、20分間AFKタスクを+40%のスピードでこなすことができる。（スタック可能）",
+ 	 	 	 	"trans": "サイバネティック接続された全てのユーザーにエクスプロイトを広げ、シナプスプロセッサをオーバークロックさせることで、短い間超人的な精神力を得ることができる。。 \r\n        \r\n         使用すると、オンライン中の全てのプレイヤーにグローバルバフを与え、20分間AFKタスクを+40%のスピードでこなすことができる。（スタック可能）",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -881,7 +881,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "サイバネティック接続された全てのユーザーにエクスプロイトを配信してユーザーの前頭皮質の統合を強化し、ユーザーのメモリ能力を向上させる。 \r\n\r\n         使用すると、オンライン中の全プレイヤーにグローバルバフを与え、20分間獲得EXPを180%増加させる。",
+ 	 	 	 	"trans": "サイバネティック接続された全てのユーザーにエクスプロイトを広げユーザーの前頭皮質の統合を強化し、ユーザーの記憶能力を向上させる。 \r\n\r\n         使用すると、オンライン中の全プレイヤーにグローバルバフを与え、20分間獲得EXPを180%増加させる。",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -891,7 +891,7 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ブすべてのサイバネティック接続されたユーザーにエクスプロイトを配信し、トランザクション・アルゴリズムを一時的に奪取し、ユーザーはボーナス${config.currency_name}を受け取ることができます。 \r\n\r\n         使用すると、オンライン中の全プレイヤーにグローバルバフを与え、20分間BitCoinの獲得量を40%増加させる。(スタック可能)",
+ 	 	 	 	"trans": "ブすべてのサイバネティック接続されたユーザーにエクスプロイトを広げ、トランザクション・アルゴリズムを一時的に奪取し、ユーザーはボーナス${config.currency_name}を受け取ることができます。 \r\n\r\n         使用すると、オンライン中の全プレイヤーにグローバルバフを与え、20分間BitCoinの獲得量を40%増加させる。(スタック可能)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
@@ -1265,7 +1265,7 @@
  	 	},
  	 	"hackTool": {
  	 	 	"name": {
- 	 	 	 	"trans": "プロトコル違反の刀",
+ 	 	 	 	"trans": "通信突破プロトコルの欠片",
  	 	 	 	"eng": "Protocol Breach Shard"
  	 	 	},
  	 	 	"description": {
@@ -1346,7 +1346,7 @@
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "もう十分に強いですか？チャレンジダンジョンで試してみてください。 \r\n                         強いボスがいて、最後には大量の戦利品があなたを待っています！ \r\n                         他のプレイヤーと一緒に挑戦することをお勧めします。",
+ 	 	 	 	"trans": "あなたは十分に強いですか？チャレンジダンジョンで試してみてください。 \r\n                         強いボスがいて、最後には大量の戦利品があなたを待っています！ \r\n                         他のプレイヤーと一緒に挑戦することをお勧めします。",
  	 	 	 	"eng": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players."
  	 	 	},
  	 	 	"startName": {
@@ -2044,12 +2044,12 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "ギャングモットーを入力",
+ 	 	 	 	 	 	"trans": "ギャングのモットーを入力",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "ギャングモットーを編集",
+ 	 	 	 	 	"trans": "ギャングのモットーを編集",
  	 	 	 	 	"eng": "Edit Gang Motto"
  	 	 	 	}
  	 	 	},
@@ -2877,7 +2877,7 @@
  	 	},
  	 	"dungeon": {
  	 	 	"public": {
- 	 	 	 	"trans": "公共ダンジョン",
+ 	 	 	 	"trans": "公開ダンジョン",
  	 	 	 	"eng": "Public dungeon"
  	 	 	},
  	 	 	"password": {
@@ -2940,7 +2940,7 @@
  	 	},
  	 	"dungeonLobby": {
  	 	 	"noDungeon": {
- 	 	 	 	"trans": "現在公のダンジョンはありません",
+ 	 	 	 	"trans": "現在されているダンジョンはありません",
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	},
  	 	 	"showCanJoinOnly": {
@@ -2955,7 +2955,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "路上で近くの敵をスキャンします。路上の敵はダンジョンの敵より弱いですが、獲得できるexpも少ないです。",
+ 	 	 	 	 	"trans": "路上で近くの敵を探します。路上の敵はダンジョンの敵より弱いですが、獲得できるexpも少ないです。",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -3476,7 +3476,7 @@
  	 	},
  	 	"containerEpicDrop": {
  	 	 	"name": {
- 	 	 	 	"trans": "壮大なチャンス",
+ 	 	 	 	"trans": "英雄アイテムのドロップチャンス",
  	 	 	 	"eng": "Epic Chance"
  	 	 	}
  	 	},
@@ -4558,7 +4558,7 @@
  	 	 	 	 	"eng": "Acquire Bitcoins"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "ビットコインを獲得する...方法は問わない",
+ 	 	 	 	 	"trans": "ビットコインを獲得する。様々な手段で",
  	 	 	 	 	"eng": "Acquire Bitcoins in any way"
  	 	 	 	}
  	 	 	},
